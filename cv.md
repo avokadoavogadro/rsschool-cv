@@ -2,7 +2,7 @@
 ## **Contacts**
 * **E-mail:** avokadoavogadro@gmail.com
 * **Phone:** +375 33 6190036
-* **GitHub:** [avokadoavogadro] [https://github.com/avokadoavogadro/]
+* **GitHub:** [avokadoavogadro](https://github.com/avokadoavogadro/)
 # **Personal information**
 My goal is to gain the necessary knowledge and experience to go to the front-end
 # **Skills**
