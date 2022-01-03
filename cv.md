@@ -8,14 +8,14 @@ My goal is to gain the necessary knowledge and experience to go to the front-end
 # **Skills**
 Passed tests on HTML, CSS, Git and CSS Flex
 # **Code examples**
-'''
+```
 let a = 3
 let x = a;
 let y = a * 2;
 alert(x*y);
-'''
+```
 # **Experience**
-This CV#1. Markdown & Git is my first project
+This *CV#1. Markdown & Git* is my first project
 # **Education**
 Graduated from Sukhoi State Technical University of Gomel (Faculty of Mechanics and Technology)
 # **Language**
